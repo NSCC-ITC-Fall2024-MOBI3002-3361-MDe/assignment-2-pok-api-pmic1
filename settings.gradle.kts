@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PokemonApp"
+rootProject.name = "Pokemon API"
 include(":app")
- 
